@@ -94,7 +94,8 @@ extension VirtualObject {
 		Vase(),
 		Lamp(),
 		Chair(),
-        Dalek()
+        Dalek(),
+        Cyberman()
 	]
 }
 

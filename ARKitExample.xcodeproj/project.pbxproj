@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		36137A781EFD936200B7A203 /* Dalek.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36137A771EFD936200B7A203 /* Dalek.swift */; };
+		36137A801EFED29A00B7A203 /* Cyberman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36137A7F1EFED29A00B7A203 /* Cyberman.swift */; };
 		3929C48C1E89EC2C00E00B60 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3929C48B1E89EC2C00E00B60 /* AppDelegate.swift */; };
 		3929C48E1E89EC2C00E00B60 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3929C48D1E89EC2C00E00B60 /* ViewController.swift */; };
 		3929C4911E89EC2C00E00B60 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3929C48F1E89EC2C00E00B60 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 		11063F3B1EBE651B0033EE6D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		16DA3C59CAE7D97A9FDD9FA0 /* SampleCode.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = SampleCode.xcconfig; path = Configuration/SampleCode.xcconfig; sourceTree = "<group>"; };
 		36137A771EFD936200B7A203 /* Dalek.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dalek.swift; sourceTree = "<group>"; };
+		36137A7F1EFED29A00B7A203 /* Cyberman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cyberman.swift; sourceTree = "<group>"; };
 		3929C4881E89EC2C00E00B60 /* ARKitExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARKitExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3929C48B1E89EC2C00E00B60 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3929C48D1E89EC2C00E00B60 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -144,6 +146,7 @@
 				C40FE5261EC239F100732B01 /* Lamp.swift */,
 				C40FE5281EC239F100732B01 /* Vase.swift */,
 				36137A771EFD936200B7A203 /* Dalek.swift */,
+				36137A7F1EFED29A00B7A203 /* Cyberman.swift */,
 			);
 			path = "Virtual Objects";
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 				C42A71BD1E9C0AF200944367 /* FocusSquare.swift in Sources */,
 				3929C48C1E89EC2C00E00B60 /* AppDelegate.swift in Sources */,
 				C4FBC02B1EC6438B003F7864 /* ARCameraTrackingState.swift in Sources */,
+				36137A801EFED29A00B7A203 /* Cyberman.swift in Sources */,
 				C40FE52C1EC239F100732B01 /* Lamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

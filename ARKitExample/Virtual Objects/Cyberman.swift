@@ -1,18 +1,18 @@
 //
-//  Dalek.swift
+//  Cyberman.swift
 //  ARKitExample
 //
-//  Created by Eric Internicola on 6/23/17.
+//  Created by Eric Internicola on 6/24/17.
 //  Copyright © 2017 Apple. All rights reserved.
 //
 
 import SceneKit
 
-class Dalek: VirtualObject {
+class Cyberman: VirtualObject {
 
     override init() {
-        super.init(modelName: "dalek", fileExtension: "scn", thumbImageFilename: "dalek", title: "Dalek")
-        let scaleFactor = CGFloat(0.08)
+        super.init(modelName: "cyberman", fileExtension: "dae", thumbImageFilename: "cyberman", title: "Cyberman")
+        let scaleFactor = CGFloat(0.1)
         scale = SCNVector3(scaleFactor, scaleFactor, scaleFactor)
     }
 
@@ -20,3 +20,4 @@ class Dalek: VirtualObject {
         fatalError("init(coder:) has not been implemented")
     }
 }
+

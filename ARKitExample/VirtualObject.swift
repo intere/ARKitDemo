@@ -95,7 +95,9 @@ extension VirtualObject {
 		Lamp(),
 		Chair(),
         Dalek(),
-        Cyberman()
+        Cyberman(),
+        PortalGun(),
+        Jack()
 	]
 }
 

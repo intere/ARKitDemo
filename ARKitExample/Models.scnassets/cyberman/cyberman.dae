@@ -4,8 +4,8 @@
   <contributor>
    <authoring_tool>SceneKit Collada Exporter v1.0</authoring_tool>
   </contributor>
-  <created>2017-06-24T17:13:19Z</created>
-  <modified>2017-06-24T17:13:19Z</modified>
+  <created>2017-06-24T23:50:40Z</created>
+  <modified>2017-06-24T23:50:40Z</modified>
   <unit meter="1.000000"/>
   <up_axis>Y_UP</up_axis>
  </asset>
@@ -497,6 +497,7 @@
  <library_visual_scenes>
   <visual_scene id="scene56">
    <node id="Cyberman" name="Cyberman">
+    <matrix>1 0 0 0 0 1 0 -1 0 0 1 0 0 0 0 1 </matrix>
     <node id="DrawCall_1248" name="DrawCall_1248">
      <instance_geometry url="#geometry7">
       <bind_material>
